@@ -38,7 +38,7 @@ Este dashboard fornece uma visão detalhada da distribuição de lucro, vendas e
 
 1. **Clone o Repositório:**
     ```sh
-   [ git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/adjuniorbi/bi_basic.git)
+   [ git clone https://github.com/adjuniorbi/bi_basic.git]
     ```
 
 2. **Abra no Power BI:** Abra o arquivo .pbix no Power BI Desktop.
